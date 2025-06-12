@@ -41,6 +41,7 @@
   color: #888;
 }
 .contenido {
-  padding-top: 100px; 
+  padding-top: 100px;
   padding-inline: 20px;
+  text-align: left; /* 👈 Esto alinea el contenido a la izquierda */
 }
